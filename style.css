@@ -72,7 +72,8 @@ body {
     .botao:last-child {
         border-radius: 0 40px 0 0;
     }
-    .ativo{
+
+    .ativo {
         background-color: rgb(200, 152, 255);
         border-bottom: 4px solid var(--verde);
     }
