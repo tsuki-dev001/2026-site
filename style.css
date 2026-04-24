@@ -94,3 +94,8 @@ body {
 .aba-conteudo{
     display:none;
 }
+.aba-conteudo-titulo-secundario{
+    text-align: center;
+    color:var(--verde);
+    text-transform: uppercase;
+}
